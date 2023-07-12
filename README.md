@@ -2,15 +2,15 @@
 
 @theblockchaincoders
 
-Build your web3 Dapp "Token Stacking Dapp Project", in which you can provide users to stack their ERC20 token and earn reward, you can also provide multiple token stacking contract.
+Build your web3 Dapp "MetaMask clone", in which you can provide users to create their own Metakmask wallet.
 
-Watch video: https://youtu.be/p04GRmC7rA0
+Watch the video: https://youtu.be/p04GRmC7rA0
 
 Resource
 
 Final-Code: https://www.theblockchaincoders.com/sourceCode/build-metamask-clone-chrome-extension-form-scratch
 
-Starter-file: https://github.com/daulathussain/nfts-api-starter-file
+Starter-file: [https://github.com/daulathussain/nfts-api-starter-file](https://github.com/daulathussain/metamask-starter-file)
 
 Get Pro Course "AI Movie APP": https://bit.ly/AI-Movie-App-Course
 
